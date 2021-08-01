@@ -1,0 +1,2 @@
+module ARRAY_IN {
+}
